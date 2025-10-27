@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class RegistroNumerosOracle {
 
-    private static final String URL = "jdbc:oracle:thin@//localhost:1521/orcl";
+    private static final String URL = "jdbc:oracle:thin:@//localhost:1521/orcl";
     private static final String USER = "system"; // usuario BD
     private static final String PASS = "password"; // contraseña
 
