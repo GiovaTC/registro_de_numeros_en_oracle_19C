@@ -5,7 +5,7 @@ public class RegistroNumerosOracle {
 
     private static final String URL = "jdbc:oracle:thin:@//localhost:1521/orcl";
     private static final String USER = "system"; // usuario BD
-    private static final String PASS = "password"; // contraseña
+    private static final String PASS = "Tapiero123"; // contraseña
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
