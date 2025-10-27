@@ -1,4 +1,7 @@
-# Registro de Números en Oracle 19c
+# registro_de_numeros_en_oracle_19C :.
+# Registro de Números en Oracle 19c .
+
+<img width="400" height="200" alt="logo" src="https://github.com/user-attachments/assets/d2ca0d79-a0ce-461a-9842-0f37f3f967fc" />    
 
 Este proyecto en Java permite ingresar números por teclado y guardarlos en una base de datos **Oracle 19c** usando JDBC.
 
